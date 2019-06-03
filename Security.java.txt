@@ -1,1 +1,1 @@
-We have to implement security as soon as possible
+We have to implement security as soon as possible. 3 protocols are required
